@@ -4,7 +4,7 @@ The frontend for project #5 in the TietoEvry Java Course.
 
 # About
 
-In this modified frontend the fakefetch have been replaced by a real fetch.
+In this modified frontend the fakefetch have been replaced by a real fetch. APIs are working correctly but the urls integration of backend to frontend is not completed yet.
 all other things are done be Eduardo Alvarez.
 
 
