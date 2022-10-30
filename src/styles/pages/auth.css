@@ -1,0 +1,31 @@
+.auth {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../assets/images/background.jpg"); /* The lineal-gradient fakes the darker tint of the image */
+  background-repeat: none;
+  background-size: cover;
+}
+
+.auth .container {
+  background-color: var(--color-gray-1);
+  padding: var(--page-space);
+  border-radius: var(--radius);
+}
+
+.auth form {
+  margin-bottom: var(--space-big);
+}
+
+.auth .input {
+  margin-bottom: var(--space-big);
+}
+
+.auth button {
+  width: 100%;
+}
+
+.auth footer {
+  color: var(--color-gray-4);
+}

@@ -1,0 +1,28 @@
+.item-admin {
+  display: flex;
+  align-items: center;
+  background-color: var(--color-gray-2);
+  padding: var(--space-small) var(--space-medium);
+  border-radius: var(--radius);
+}
+
+.item-admin .number {
+  margin-right: var(--space-medium);
+}
+
+.item-admin img {
+  width: 80px;
+  margin-right: var(--space-medium);
+}
+
+.item-admin h3 {
+  margin-bottom: 0;
+}
+
+.item-admin .buttons {
+  margin-left: auto;
+}
+
+.item-admin button:last-child {
+  margin-right: 0;
+}
