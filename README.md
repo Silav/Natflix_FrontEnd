@@ -4,11 +4,9 @@ The frontend for project #5 in the TietoEvry Java Course.
 
 # About
 
-This is a dummy frontend meaning that it has hardcoded data. The students must replace the false api calls done using a method called `fakeFetch()` and replace it with the real native `fetch()` method in JavaScript.
+In this modified frontend the fakefetch have been replaced by a real fetch.
+all other things are done be Eduardo Alvarez.
 
-- Every tv-series opens information about Seinfield.
-- Every movie opens information about Public servant.
-- Every documentary opens information about The Last Dance.
 
 # Installation
 
